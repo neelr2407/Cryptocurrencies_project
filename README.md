@@ -1,2 +1,2 @@
-# Cryptocurrencies_project
+# python_project
  
